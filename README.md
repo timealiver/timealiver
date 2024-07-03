@@ -13,5 +13,4 @@
 
 <a href="https://t.me/timealiver" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
-</p>
 ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timealiver&show_icons=true&theme=transparent)
