@@ -5,9 +5,12 @@
 <h2> About Me:</h2>   
   <h3 align="justify">I'm an aspiring backend developer. I first tried my hand in this field a year ago. Since then I've been diligently studying JS and its frameworks. Besides, I have a special love for C++, which I study in my free time.</h3>  
 <h2>My Skills</h2>
-<p align="left"> 
+<p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=js,node,express,github,c,cpp,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,github,c,cpp,python,)](https://skillicons.dev)
+<h2>Contacts</h2>
+
+<a href="https://t.me/timealiver" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
 </p>
 <!--
