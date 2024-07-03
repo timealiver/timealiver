@@ -15,14 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" />
-    </td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timealiver&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
