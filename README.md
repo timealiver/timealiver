@@ -4,7 +4,6 @@
 
 <h2> About Me:</h2>   
   <h3 align="justify">I'm an aspiring backend developer. I first tried my hand in this field a year ago. Since then I've been diligently studying JS and its frameworks. Besides, I have a special love for C++, which I study in my free time.
-  ![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timealiver&show_icons=true&theme=transparent)
   </h3>
 <h2>My Skills</h2>
 <p align="center"> 
@@ -15,6 +14,4 @@
 <a href="https://t.me/timealiver" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
 </p>
-<!--
-**timealiver/timealiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Timur's GitHub stats](https://github-readme-stats.vercel.app/api?username=timealiver&show_icons=true&theme=transparent)
