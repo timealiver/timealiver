@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=timealiver&theme=dark&background=000000" alt="webDev's Github stats" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=timealiver&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timealiver&layout=compact&theme=vision-friendly-dark" />
