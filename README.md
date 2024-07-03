@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, my name is Timur</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Aspiring Developer | Student | Exploring the World of <del>Bug Fixes</del>Coding</h3>
+
 
 <!--
 **timealiver/timealiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
