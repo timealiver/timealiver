@@ -12,4 +12,4 @@
 
 <a href="https://t.me/timealiver" rel="nofollow" target="_blank"><img align="left" alt="ReliableMan | Telegram" width="45" height="45" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"></a>&nbsp;
 
-[![Timur's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timealiver)](https://github.com/timealiver)
+[![WakaTime Статистика](https://wakatime.com/badge/user/9fe8697e-887d-4a5d-9da4-32080fb32b73.svg)](https://wakatime.com/@9fe8697e-887d-4a5d-9da4-32080fb32b73)
